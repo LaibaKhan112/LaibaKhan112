@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I'm an AI expert with a strong background in coding, data visualization, Machine Learning and Deep Learning. I’m passionate about merging technology with storytelling, and I'm currently exploring deep learning applications that investigate intricate emotional dynamics.
 
-- 🌍 I'm based in **Lodhran, Punjab**
+- 🌍 I'm based in **Pakistan**
 - 🏫 I'm currently pursuing my **Bachelor's in Artificial Intelligence** at the Islamia University Bahwalpur
 - 📫 How to reach me: [laibalodhi7777@gmail.com](mailto:laibalodhi777@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/laiba-khan-325ba623a/](https://www.linkedin.com/in/laiba-khan-325ba623a/)
