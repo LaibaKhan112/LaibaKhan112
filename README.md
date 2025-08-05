@@ -73,7 +73,7 @@ An intuitive application that facilitates real-time translation between English 
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="30" style="vertical-align: middle;"/> YouTube Channel 
 
-I’m starting a YouTube channel where I share tutorials on coding and Data Structures & Algorithms (DSA). Check it out [here](https://www.youtube.com/@laibakhan1657).
+I’m starting a YouTube channel where I share tutorials on coding and Data Structures & Algorithms (DSA). Check it out [here].
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/laiba-khan-325ba623a/)
